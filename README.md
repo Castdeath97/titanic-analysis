@@ -6,6 +6,5 @@ Hierarchy
 ------------
 ├── .gitignore       <- git ignore
 ├── analysis.ipynb   <- Contains modelling code and analysis
-├── references.ipynb <- Used to save some references
 ├── test.csv         <- Test data
 ├── train.csv        <- Training data
