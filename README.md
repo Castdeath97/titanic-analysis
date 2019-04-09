@@ -3,7 +3,8 @@ An analysis using various Machine Learning models based on the Kaggle Titanic co
 which also including an evaluation of various modelling techinques
 
 ## File Hierarchy 
-├── .gitignore       <- git ignore
-├── analysis.ipynb   <- Contains modelling code and analysis
-├── test.csv         <- Test data
-├── train.csv        <- Training data
+
+* .gitignore       <- git ignore
+*  analysis.ipynb   <- Contains modelling code and analysis
+*  test.csv         <- Test data
+*  train.csv        <- Training data
