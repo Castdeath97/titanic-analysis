@@ -1,6 +1,5 @@
 # titanic-analysis
-An analysis using various Machine Learning models based on the Kaggle Titanic competition 
-which also including an evaluation of various modelling techinques
+An analysis using various Machine Learning models based on the Kaggle Titanic competition which also including an evaluation of various modelling techniques
 
 ## File Hierarchy 
 
